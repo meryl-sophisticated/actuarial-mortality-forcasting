@@ -1,0 +1,4 @@
+numpy
+pandas
+tensorflow>=2.16   # Keras 3
+matplotlib         # figures only
